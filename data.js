@@ -7,7 +7,7 @@ const getStateStats = feature => {
 /*const getStateStats = feature => {
   return fetch(
     `https://covidtracking.com/api/states`  
-  ).then(response => response.json())
+  ).then(response => response.json()) 
   
 };
 console.log(getStateStats())*/
