@@ -1,0 +1,68 @@
+#written {
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+#CovidHeadline {
+    background-color: darkslategray;
+    color: whitesmoke;
+}
+
+#statement {
+    color: black;
+    font-size: 1.2em;
+    }
+
+#writtenP1 {
+color: black;
+font-size: 1.2em;
+}
+
+.table {
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 5px;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Baloo Paaji 2', cursive;
+  }
+
+#state {
+   background-color: cadetblue;
+   color: white;
+}
+
+#positive {
+    background-color: crimson;
+    color: white;
+}
+
+#negative {
+    background-color: slategray;
+    color: white;
+}
+
+#totalTestResults {
+    background-color: rebeccapurple;
+    color: white;
+}
+
+#deathData {
+    background-color: black;
+    color: white;
+}
+
+#percentPositive {
+    background-color: coral;
+    color: white;
+}
+
+#percentDeathOfPositive {
+    background-color: green;
+    color: white;
+}

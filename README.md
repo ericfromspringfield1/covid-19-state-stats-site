@@ -1,2 +1,2 @@
-# covid-19-state-stats-site
-Small site to see daily Coronavirus stats from each state 
+# covid19StateStats
+Stats from COVID-19 by state
